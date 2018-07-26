@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/akshay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_aee7016a14848a01faeed7863e67623176266030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/e6488353a5dc101ff0cec1bbaf259f72bbffaf2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_95e1e8e3771cdeae9cce620dd91d52b45c302aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/c4e42abd73019d22091e74926b0542ff052051fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_6958aa059c7e786c4bad562650be5b908d3b1ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/94546d5641a2cce0eae18d9e74fb5fcb3441e92a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_1590eaf764c30f58ccbfa0b12f9b4ed20fac3585.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="450a24ca85dbed8c7bdedf65017910d58c0c5353">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b67fb085a9d05d30892eb88d448a9c2c58a88ca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/f4a88bcabc39ea935b0cddd98359828ea0d9067c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_5e64e4790160a7d9e6288f30b3c48136d5cdf953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/77559cb8c261d278fed80122c13776f76f5781bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_7f1bcc0ce3c7a7012dd8e43221f9e8678ffb8ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/f1f7cb26f5bae46d057427e1939ea1b3b545cfca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_c955e6d8683ac2b9c5a0b5a3d34f43868c714950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/2a0825d611e04adcadc82e796779e596f2e23cea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_df358144d9dcbb02541b31223f86de994df8a993.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1184a90cc826af7f9709d4f0b3cfb92e3aa176a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0da8866e1160d40531db3f531b60692672cfe11a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/1cac65e4e388aea73e6246e2d30f82201735c7af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_a3387544ab113cc48df356e01f721260c97f7775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/362b117dc8957ec3604d2c30f333b2bc2b20cc40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_d89dd74f3499d04f2143f4be3a6be6a2ba806aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/akshay/.android/build-cache/5f20e84b8fcf061db4d6722e847bf27f9623b0c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/akshay/AndroidStudioProjects/TimePicker/app/build/intermediates/pre-dexed/debug/classes_272e561120130d661662e4791c8532ac7be73f32.jar" />
+    </item>
+
+</items>
